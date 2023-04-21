@@ -10,7 +10,7 @@
 
     <TextView
         android:id="@+id/text"
-        android:layout_width="410dp"
+        android:layout_width="350dp"
         android:layout_height="wrap_content"
         android:gravity="center"
         android:text="Главные шипы в мультсериале Леди Баг и Супер-кот! "
